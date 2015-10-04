@@ -92,7 +92,7 @@ PlayerSettings:
   metroEnableLowLatencyPresentationAPI: 0
   xboxOneDisableKinectGpuReservation: 0
   virtualRealitySupported: 0
-  productGUID: a1359d76bbd8495459459b14e90018b3
+  productGUID: 2ea5a509f63781f47bead69b8e64a022
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
   AndroidPreferredInstallLocation: 1
@@ -477,24 +477,14 @@ PlayerSettings:
   WebGL::useEmbeddedResources: 0
   XboxOne::enus: 1
   stringPropertyNames:
-  - Build_ServiceEnabled::Build_ServiceEnabled
-  - UNet_ServiceEnabled::UNet_ServiceEnabled
   - WebGL::emscriptenArgs
   - WebGL::template
   - additionalIl2CppArgs::additionalIl2CppArgs
-  Build_ServiceEnabled::Build_ServiceEnabled: True
-  UNet_ServiceEnabled::UNet_ServiceEnabled: True
   WebGL::emscriptenArgs: 
   WebGL::template: APPLICATION:Default
   additionalIl2CppArgs::additionalIl2CppArgs: 
   firstStreamedSceneWithResources: 0
-<<<<<<< HEAD
-  cloudProjectId: 7cbc180c-217a-4d7b-8de3-72562fa10f7b
-  projectName: TR2.0
-  organizationId: arstan
-=======
-  cloudProjectId: 310ea634-32af-44db-bd52-9ba0653b9414
-  projectName: TR2.0
-  organizationId: david-whitfield
->>>>>>> origin/master
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
