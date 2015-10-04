@@ -260,6 +260,7 @@ Transform:
   m_RootOrder: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &1403286266
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -313,6 +314,8 @@ Camera:
   m_StereoConvergence: 10
   m_StereoSeparation: .0219999999
   m_StereoMirrorMode: 0
+=======
+>>>>>>> parent of 531aaa0... Light and Culling
 =======
 >>>>>>> parent of 531aaa0... Light and Culling
 --- !u!1 &1875260235
