@@ -488,7 +488,13 @@ PlayerSettings:
   WebGL::template: APPLICATION:Default
   additionalIl2CppArgs::additionalIl2CppArgs: 
   firstStreamedSceneWithResources: 0
+<<<<<<< HEAD
   cloudProjectId: 7cbc180c-217a-4d7b-8de3-72562fa10f7b
   projectName: TR2.0
   organizationId: arstan
+=======
+  cloudProjectId: 310ea634-32af-44db-bd52-9ba0653b9414
+  projectName: TR2.0
+  organizationId: david-whitfield
+>>>>>>> origin/master
   cloudEnabled: 0
