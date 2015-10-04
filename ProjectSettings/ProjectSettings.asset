@@ -484,7 +484,7 @@ PlayerSettings:
   WebGL::template: APPLICATION:Default
   additionalIl2CppArgs::additionalIl2CppArgs: 
   firstStreamedSceneWithResources: 0
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: 310ea634-32af-44db-bd52-9ba0653b9414
+  projectName: TR2.0
+  organizationId: david-whitfield
   cloudEnabled: 0
