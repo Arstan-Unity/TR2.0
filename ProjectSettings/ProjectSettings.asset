@@ -93,10 +93,14 @@ PlayerSettings:
   xboxOneDisableKinectGpuReservation: 0
   virtualRealitySupported: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   productGUID: 2ea5a509f63781f47bead69b8e64a022
 =======
   productGUID: 0177c7e1e62cb2640bb386084b2161a7
 >>>>>>> origin/master
+=======
+  productGUID: a1359d76bbd8495459459b14e90018b3
+>>>>>>> parent of 531aaa0... Light and Culling
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
   AndroidPreferredInstallLocation: 1
@@ -445,9 +449,13 @@ PlayerSettings:
   XboxOne::enus: 1
 <<<<<<< HEAD
   stringPropertyNames:
+  - Build_ServiceEnabled::Build_ServiceEnabled
+  - UNet_ServiceEnabled::UNet_ServiceEnabled
   - WebGL::emscriptenArgs
   - WebGL::template
   - additionalIl2CppArgs::additionalIl2CppArgs
+  Build_ServiceEnabled::Build_ServiceEnabled: True
+  UNet_ServiceEnabled::UNet_ServiceEnabled: True
   WebGL::emscriptenArgs: 
   WebGL::template: APPLICATION:Default
   additionalIl2CppArgs::additionalIl2CppArgs: 
@@ -455,7 +463,13 @@ PlayerSettings:
   stringPropertyNames: []
 >>>>>>> origin/master
   firstStreamedSceneWithResources: 0
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+<<<<<<< HEAD
+  cloudProjectId: 7cbc180c-217a-4d7b-8de3-72562fa10f7b
+  projectName: TR2.0
+  organizationId: arstan
+=======
+  cloudProjectId: 310ea634-32af-44db-bd52-9ba0653b9414
+  projectName: TR2.0
+  organizationId: david-whitfield
+>>>>>>> origin/master
   cloudEnabled: 0
